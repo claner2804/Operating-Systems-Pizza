@@ -1,5 +1,5 @@
 # Name of the binary
-BINARY = pizzaç
+BINARY = pizza
 # Object files
 OBJS = pizza.o
 # Compiler for C (gcc for C, instead of g++ for C++)
